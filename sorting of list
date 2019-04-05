@@ -1,0 +1,4 @@
+a=[2,3,4,5,53]
+h=[]
+a.sort()
+print('after sorting',a)
