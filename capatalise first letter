@@ -1,0 +1,5 @@
+a=['raj','kai','asa']
+print('user list',a)
+for c,k in enumerate(a):
+    a[c]=k.title
+print('after logic',a)
